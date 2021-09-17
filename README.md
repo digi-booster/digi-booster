@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/digi_booster" target="blank"><img src="https://img.shields.io/twitter/follow/digi_booster?logo=twitter&style=for-the-badge" alt="digi_booster" /></a> </p>
 
-- 📫 How to reach me **digibooster@gmail.com**
+- 📫 How to reach me **digiboosterweb@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
