@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=digi-booster&label=Profile%20views&color=0e75b6&style=flat" alt="digi-booster" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=digi-booster" alt="digi-booster" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy&theme=onedark"><img src="https://github-profile-trophy.vercel.app/?username=digi-booster" alt="digi-booster" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/digi_booster" target="blank"><img src="https://img.shields.io/twitter/follow/digi_booster?logo=twitter&style=for-the-badge" alt="digi_booster" /></a> </p>
 
