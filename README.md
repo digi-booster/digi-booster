@@ -1,55 +1,40 @@
-<div align="center">
-<img width="100%" height="auto" src="https://cdn.pixabay.com/photo/2021/08/04/13/06/software-developer-6521720_960_720.jpg" alt="cover" />
-</div>
+# Hi 👋, I'm DIGI BOOSTER
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-<p align='center'>
+### Crafting Modern Web Experiences with Code & Creativity
 
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=digi-booster.digi-booster) -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=digi-booster&label=Profile%20views&color=0e75b6&style=flat" alt="digi-booster" /> </p>
 
+<p align="left"> <a href="https://twitter.com/digi_booster" target="blank"><img src="https://img.shields.io/twitter/follow/digi_booster?logo=twitter&style=for-the-badge" alt="digi_booster" /></a> </p>
+
+- 🔭 I'm currently working on **Experimenting with modern web architectures and performance optimization**
+
+- 🌱 I'm currently learning **Tailwind CSS v4, PHP 8.5, Composer, MariaDB/MySQL, and modern full-stack architectures**
+
+- 👯 I'm looking to collaborate on **full-stack web applications, open-source projects, developer tools, and innovative web solutions using PHP, Tailwind CSS, and MariaDB/MySQL**
+
+- 🤝 I'm looking for help with **Optimizing full-stack web applications, advanced database design (MariaDB/MySQL), modern PHP practices, Tailwind CSS layouts, and building scalable developer tools**
+
+- 💬 Ask me about **Full-stack web development, React & Next.js, PHP & Composer, Tailwind CSS v4, MariaDB/MySQL, API design, and modern web architectures**
+
+- 📫 How to reach me **himanshubusiness4@gmail.com**
+
+- ⚡ Fun fact **I enjoy experimenting with full-stack tech stacks just for fun**
+
+- 👨‍💻 All of my projects are available at **[https://himu.byethost22.com/](https://himu.byethost22.com/)**
+
+- 📝 I regularly write articles on **[https://himu.byethost22.com/](https://himu.byethost22.com/)**
+
+- 📄 Know about my experiences **[https://himu.byethost22.com/](https://himu.byethost22.com/)**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/digi-booster" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="digi-booster" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/digibooster" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="digibooster" height="30" width="40" /></a>
+<a href="https://instagram.com/himu.xoxo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="himu.xoxo" height="30" width="40" /></a>
+<a href="https://twitter.com/digi_booster" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="digi_booster" height="30" width="40" /></a>
 </p>
-<div size='20px'> Hi! My name is Himanshu. Thank You for taking the time to view my GitHub Profile :smile:
-</div>
-<img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 200px>
-<h2> About Me</h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=digi-booster&" alt="digi-booster" /></p>
 
-- 🔭 I’m currently working on Github Project, Web Development and Optimization, PWA
-
-- 🌱 I’m currently learning Angular, Typescript, RxJs 
-
-- 👯 I’m looking to collaborate on Open Source Project 
-
-- 💬 Talk to me about Html, Css, JavaScript, PWA, Web Development and Optimization, PHP, SQl and MySQL, Figma, Freelancing Opportunites, and Open Source 
-
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href= https://github.com/digi-booster?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/digi-booster?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href= https://github.com/digi-booster?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/digi-booster?tab=repositories&q=&type=&language=php&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg'> </a>
-<a href= https://github.com/digi-booster?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
-<a href= https://github.com/digi-booster?tab=repositories&q=&type=&language=figma&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/figma.svg'> </a>
-<a href= https://github.com/digi-booster?tab=repositories&q=&type=&language=angularjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/angularjs.svg'> </a>
-<a href= https://github.com/digi-booster?tab=repositories&q=&type=&language=typescript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> </a>
-
-
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/digibooster'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.twitter.com/digi_booster'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://www.github.com/digi-booster'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
-
-
-
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=digi-booster&count_private=true&show_icons=true&theme=merko" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=digi-booster&theme=merko" />
-</a>
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/digibooster"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="digibooster" /></a></p>
