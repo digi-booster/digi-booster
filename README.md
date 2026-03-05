@@ -1,5 +1,4 @@
-# Hi 👋, I'm DIGI BOOSTER
-
+# Hi 👋, I'm Himanshu
 ### Crafting Modern Web Experiences with Code & Creativity
 
 
